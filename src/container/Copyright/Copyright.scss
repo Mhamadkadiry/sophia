@@ -1,0 +1,19 @@
+.copyright__container {
+    display: flex;
+    flex: 1;
+    padding: 2rem;
+    background: var(--secondary-color);
+    box-shadow: 10px 10px 10px 12px var(--secondary-color);
+}
+
+.copyright__logo{
+    img {
+        width: 60%;
+    }
+}
+
+.copyright__text{
+    p {
+        color: #fff;
+    }
+}
